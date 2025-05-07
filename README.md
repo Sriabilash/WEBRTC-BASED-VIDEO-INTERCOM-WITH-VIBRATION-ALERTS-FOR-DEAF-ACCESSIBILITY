@@ -14,3 +14,13 @@ This project aims to build an accessible, browser-based video intercom system us
 
 ## 📁 Project Structure
 
+📦 Video-Intercom-Accessibility
+┣ 📂 client
+┃ ┣ 📜 index.html
+┃ ┣ 📜 script.js
+┃ ┗ 📜 style.css
+┣ 📂 server
+┃ ┣ 📜 server.js (Node.js + Socket.IO signaling server)
+┣ 📂 esp8266
+┃ ┣ 📜 esp8266_code.ino
+┗ 📜 README.md
