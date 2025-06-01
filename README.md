@@ -59,7 +59,6 @@ This project aims to build an accessible, browser-based video intercom system us
 | Serial Communication | ESP8266 to Arduino data relay |
 
 ---
-
 ## 🎯 Objectives
 
 The project aims to develop a video intercom system that is not only functional and web-accessible but also specifically designed to cater to Deaf and Hard-of-Hearing users. By integrating a vibration sensor and ESP8266 module, the system provides knock/movement detection and alerting capabilities along with seamless video calling, making it inclusive and user-friendly.
